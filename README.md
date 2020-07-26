@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mohammad Laif](../master/githumme.png "MohammadLaif")
+![Mohammad Laif](https://raw.githubusercontent.com/mzdhr/mzdhr/master/githumme.png "MohammadLaif")
 
 - :hammer: I’m currently working on clients project and [personal apps](https://play.google.com/store/apps/dev?id=8760777731622774452&hl=en).
 - :books: I'm currently reading [these books](https://www.goodreads.com/review/list/44087185-mohammad-laif?shelf=currently-reading).
