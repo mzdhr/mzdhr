@@ -1,5 +1,3 @@
-# Mohammad Laif :octocat:
-
 <!--
 **mzdhr/mzdhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
 
 ![Mohammad Laif](https://raw.githubusercontent.com/mzdhr/mzdhr/master/githumme.png "MohammadLaif")
 
-- :hammer: I’m currently working on clients project and [personal apps](https://play.google.com/store/apps/dev?id=8760777731622774452&hl=en).
-- :books: I'm currently reading [these books](https://www.goodreads.com/review/list/44087185-mohammad-laif?shelf=currently-reading).
-- :mailbox: How to reach me: [Twitter](https://twitter.com/mohammadlaif).
+- Currently working on clients project and [personal apps](https://play.google.com/store/apps/dev?id=8760777731622774452&hl=en).
+- Currently reading [these books](https://www.goodreads.com/review/list/44087185-mohammad-laif?shelf=currently-reading).
+- Reach me at: [Twitter](https://twitter.com/mohammadlaif).
